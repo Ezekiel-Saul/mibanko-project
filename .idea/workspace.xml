@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2c901b62-966a-4888-8775-544a07e87cdf" name="Changes" comment="place back the properties files" />
+    <list default="true" id="2c901b62-966a-4888-8775-544a07e87cdf" name="Changes" comment="place back the properties files">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mibanko-bonusaccount.properties" beforeDir="false" afterPath="$PROJECT_DIR$/mibanko-bonusaccount.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mibanko-mainaccount.properties" beforeDir="false" afterPath="$PROJECT_DIR$/mibanko-mainaccount.properties" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,18 +17,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "Ezekiel-Saul"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Ezekiel-Saul&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/Ezekiel-Saul/mibanko-project.git",
-    "accountId": "b9fe84c1-28fc-4a6f-98e1-988b9c7079e8"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Ezekiel-Saul/mibanko-project.git&quot;,
+    &quot;accountId&quot;: &quot;b9fe84c1-28fc-4a6f-98e1-988b9c7079e8&quot;
   }
-}]]></component>
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 0
 }</component>
@@ -44,6 +48,21 @@
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\Java\Projects\git-localconfig-repo" />
     </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="git-localconfig-repo" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="git-localconfig-repo" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -350,7 +369,23 @@
       <option name="project" value="LOCAL" />
       <updated>1727545838550</updated>
     </task>
-    <option name="localTasksCounter" value="38" />
+    <task id="LOCAL-00038" summary="place back the properties files">
+      <option name="closed" value="true" />
+      <created>1727545979622</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1727545979622</updated>
+    </task>
+    <task id="LOCAL-00039" summary="place back the properties files">
+      <option name="closed" value="true" />
+      <created>1727545988876</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1727545988876</updated>
+    </task>
+    <option name="localTasksCounter" value="40" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
